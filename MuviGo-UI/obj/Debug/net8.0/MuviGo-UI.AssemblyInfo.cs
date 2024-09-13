@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MuviGo-UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+579daa17c7b6211a0b768a71632aae7751f95c2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05d53d55163f7ee7b8630b0edad91305a30c3cdb")]
 [assembly: System.Reflection.AssemblyProductAttribute("MuviGo-UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MuviGo-UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

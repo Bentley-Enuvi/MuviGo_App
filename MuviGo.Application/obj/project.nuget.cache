@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ku7DH0SwZNs=",
+  "dgSpecHash": "q0X8e2Mo7Lg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\MuviGo\\MuviGo.Application\\MuviGo.Application.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\MuviGo\\MuviGo_App\\MuviGo.Application\\MuviGo.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\ardalis.specification\\8.0.0\\ardalis.specification.8.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.41.0\\azure.core.1.41.0.nupkg.sha512",

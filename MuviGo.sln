@@ -11,7 +11,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MuviGo.Infrastructure", "Mu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MuviGo.Application", "MuviGo.Application\MuviGo.Application.csproj", "{FCADC866-218A-4F4F-ADBE-998334487262}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuviGoTest-Project", "MuviGoTest-Project\MuviGoTest-Project.csproj", "{4AA82E9F-A3EC-4333-A503-F9577CABB527}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MuviGoTest-Project", "MuviGoTest-Project\MuviGoTest-Project.csproj", "{4AA82E9F-A3EC-4333-A503-F9577CABB527}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{904C2632-B8C8-4C00-9768-7AF524094B6A}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
